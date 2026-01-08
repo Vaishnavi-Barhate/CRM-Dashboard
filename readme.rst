@@ -1,5 +1,7 @@
 ### Download / Clone the Repository
 
+---
+
 ```bash
 git clone https://github.com/Vaishnavi-Barhate/CRM-Dashboard.git
 
