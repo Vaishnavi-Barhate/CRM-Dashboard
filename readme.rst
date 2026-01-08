@@ -7,14 +7,10 @@ Move the project into your server root folder:
 
 C:\xampp\htdocs\CRM-Dashboard
 
-### Start Local Server
+Start Apache and MySQL from the XAMPP Control Panel.
 
-Open XAMPP Control Panel
+Run the project in your browser:
 
-Start:
-Apache
-MySQL
-
-### Run the Project 
-
+text
+Copy code
 http://localhost/CRM-Dashboard/contacts
