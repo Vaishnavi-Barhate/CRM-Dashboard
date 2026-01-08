@@ -1,8 +1,7 @@
-### Download / Clone the Repository
-
----
+Download / Clone the Repository
 
 ```bash
+
 git clone https://github.com/Vaishnavi-Barhate/CRM-Dashboard.git
 
 Move the project into your server root folder:
