@@ -11,6 +11,4 @@ Start Apache and MySQL from the XAMPP Control Panel.
 
 Run the project in your browser:
 
-text
-Copy code
 http://localhost/CRM-Dashboard/contacts
